@@ -1,0 +1,63 @@
+h1{
+	background-color: steelblue;
+	text-align: center;
+	color: white;
+	margin: 0;
+}
+
+#strip{
+	background-color: white;
+	text-align: center;
+	height: 30px;
+}
+
+body{
+	margin: 0;
+	background-color: #232323;
+}
+
+#result{
+	width: 20%;
+	display: inline-block;
+}
+
+button{
+	background-color: white;
+	border: none;
+	height: 100%;
+	letter-spacing: 1px;
+	font-weight: 700;
+	color: steelblue;
+	transition: all 0.5s;
+	font-size: inherit;
+}
+
+#randomColor{
+	font-size: 2em;
+	text-transform: uppercase;
+}
+
+.square{
+	width: 30%;
+	background-color: red;
+	float:left;
+	margin: 1.66%;
+	border-radius: 15%;
+	padding-bottom: 30%;
+	transition :background-color 1.0s;
+}
+
+#container{
+	max-width: 600px;
+	margin: 20px auto;
+}
+
+button:hover{
+	background-color: steelblue;
+	color: white;
+}
+
+.selects{
+	background-color: steelblue;
+	color: white;
+}
