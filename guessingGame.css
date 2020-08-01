@@ -21,15 +21,23 @@ body{
 }
 
 #result{
-	width: 42%;
+	width: 40%;
 }
 
 #round{
-	margin-right: 12%;
+	/* margin-right: 12%; */
+	float: left;
+	left: 10px;
+	top: 7px;
+	position: relative;
 }
 
 #score{
-	margin-left: 12%;
+	/* margin-left: 12%; */
+	float: right;
+	right: 10px;
+	top: 7px;
+	position: relative;
 }
 
 #result,#round,#score{
