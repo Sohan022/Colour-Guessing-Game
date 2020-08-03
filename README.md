@@ -1,7 +1,5 @@
 # Colour Guessing Game
 
-### Live Play: [Click Here](https://sohan022.github.io/ColorGuessingGame/)
-
 <kbd>![index](https://github.com/Sohan022/Colour-Guessing-Game/blob/master/Demo/IMG_20200801_114601.jpg)</kbd>
 
 <kbd>![easy](https://github.com/Sohan022/Colour-Guessing-Game/blob/master/Demo/IMG_20200801_114548.jpg)</kbd>
